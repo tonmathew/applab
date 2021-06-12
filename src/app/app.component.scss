@@ -1,0 +1,66 @@
+header {
+    padding-top: 2%;
+}
+div#navbarNav {
+    justify-content: flex-end;
+}
+img.rounded.float-left {
+    width: 120px;
+}
+li.nav-item {
+    padding: 10px;
+}
+
+
+
+.image_resize {
+    max-width: 80%;
+    display: block;
+}
+.col.tag {
+    margin: auto;
+    padding: 0px 80px;
+}
+.tag-content {
+    border-radius: 20px;
+    background-color: #c3c5ce;
+    padding: 2px;
+    width: 235px;
+}
+.row.drag-image {
+    position: absolute;
+    top: 76%;
+    z-index: -1;
+}
+
+
+.container.listing {
+    text-align: center;
+}
+img.img-fluid.list {
+    margin: 20px;
+}
+h6.list-company {
+    color: #002c53;
+    font-size: 12px;
+}
+.col.tag {
+    margin: auto;
+    padding: 0px 80px;
+}
+p.flex-content {
+    font-size: 15px;
+    text-align: left;
+}
+h3.flex-title {
+    font-size: 20px;
+}
+.col.points {
+    text-align: start;
+}
+h1 {
+    font-size: 30px;
+}
+.col.points {
+    padding: 25px;
+}
